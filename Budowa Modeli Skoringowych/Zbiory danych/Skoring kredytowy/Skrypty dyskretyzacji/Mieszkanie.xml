@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Mieszkanie</Variable Name>
+<Destination Variable Name>Mieszkanie_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name>wynajem</Category Name>
+	<WOE Value>19,6051749605857</WOE Value>
+	<IV>0,0263269492</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>wynajem</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>inne/własne</Category Name>
+	<WOE Value>-43,6001831968246</WOE Value>
+	<IV>0,0585488174</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>inne</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>inne/własne</Category Name>
+	<WOE Value>-43,6001831968246</WOE Value>
+	<IV>0,0585488174</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>własne</Exact Value>
+</Category>
+
+</Categorization Script>

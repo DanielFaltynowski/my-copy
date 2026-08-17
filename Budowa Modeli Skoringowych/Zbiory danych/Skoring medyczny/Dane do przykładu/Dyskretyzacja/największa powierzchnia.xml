@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>największa powierzchnia</Variable Name>
+<Destination Variable Name>największa powierzchnia_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,728,3></Category Name>
+	<WOE Value>279,468802560337</WOE Value>
+	<IV>2,2269547082</IV>
+	<From></From>
+	<To>728,3</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(728,3,830,9></Category Name>
+	<WOE Value>1,78469936250604</WOE Value>
+	<IV>0,0000318343</IV>
+	<From>728,3</From>
+	<To>830,9</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(830,9,inf)</Category Name>
+	<WOE Value>-282,373460010167</WOE Value>
+	<IV>2,2551373364</IV>
+	<From>830,9</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

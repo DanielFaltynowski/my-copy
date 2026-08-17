@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>największa gładkość</Variable Name>
+<Destination Variable Name>największa gładkość_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,1124></Category Name>
+	<WOE Value>161,891665638864</WOE Value>
+	<IV>0,3709108242</IV>
+	<From></From>
+	<To>0,1124</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,1124,0,1377></Category Name>
+	<WOE Value>46,9709920264037</WOE Value>
+	<IV>0,0823562529</IV>
+	<From>0,1124</From>
+	<To>0,1377</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,1377,inf)</Category Name>
+	<WOE Value>-97,1066377786625</WOE Value>
+	<IV>0,3927427438</IV>
+	<From>0,1377</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

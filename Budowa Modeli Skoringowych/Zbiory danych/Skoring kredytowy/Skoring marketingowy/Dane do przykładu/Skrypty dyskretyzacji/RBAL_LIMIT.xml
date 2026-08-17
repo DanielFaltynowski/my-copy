@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>RBAL_LIMIT</Variable Name>
+<Destination Variable Name>RBAL_LIMIT_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0></Category Name>
+	<WOE Value>-16,5139400189301</WOE Value>
+	<IV>0,0159093943</IV>
+	<From></From>
+	<To>0</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,1></Category Name>
+	<WOE Value>6,09705232748454</WOE Value>
+	<IV>0,0009458088</IV>
+	<From>0</From>
+	<To>1</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(1,2></Category Name>
+	<WOE Value>40,8650009055492</WOE Value>
+	<IV>0,0164664219</IV>
+	<From>1</From>
+	<To>2</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(2,inf)</Category Name>
+	<WOE Value>69,2935062560938</WOE Value>
+	<IV>0,0280860026</IV>
+	<From>2</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

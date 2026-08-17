@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>HOME_ED</Variable Name>
+<Destination Variable Name>HOME_ED_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,120></Category Name>
+	<WOE Value>22,1664322562093</WOE Value>
+	<IV>0,0261304717</IV>
+	<From></From>
+	<To>120</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(120,140></Category Name>
+	<WOE Value>-43,1974800785356</WOE Value>
+	<IV>0,0565379796</IV>
+	<From>120</From>
+	<To>140</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(140,150></Category Name>
+	<WOE Value>-10,2274649125038</WOE Value>
+	<IV>0,0006761842</IV>
+	<From>140</From>
+	<To>150</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(150,inf)</Category Name>
+	<WOE Value>21,0219645163051</WOE Value>
+	<IV>0,0041226107</IV>
+	<From>150</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

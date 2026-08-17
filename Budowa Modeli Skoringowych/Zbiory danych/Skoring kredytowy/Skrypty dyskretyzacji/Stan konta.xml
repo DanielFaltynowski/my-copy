@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Stan konta</Variable Name>
+<Destination Variable Name>Stan konta_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>brak</Category Name>
+	<WOE Value>-81,8098705694941</WOE Value>
+	<IV>0,2056933889</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>brak</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>debet</Category Name>
+	<WOE Value>-40,1391782720529</WOE Value>
+	<IV>0,0464467634</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>debet</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>pow. 0</Category Name>
+	<WOE Value>104,229385807789</WOE Value>
+	<IV>0,382670745</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value><= $300</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>pow. 0</Category Name>
+	<WOE Value>104,229385807789</WOE Value>
+	<IV>0,382670745</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>>$300</Exact Value>
+</Category>
+
+</Categorization Script>

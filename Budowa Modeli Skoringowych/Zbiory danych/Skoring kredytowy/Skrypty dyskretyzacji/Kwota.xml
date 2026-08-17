@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Kwota</Variable Name>
+<Destination Variable Name>Kwota_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,1766,8></Category Name>
+	<WOE Value>-1,65293019512106</WOE Value>
+	<IV>0,0000550977</IV>
+	<From></From>
+	<To>1766,8</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(1766,8,2671,2></Category Name>
+	<WOE Value>27,8161678317094</WOE Value>
+	<IV>0,0145703736</IV>
+	<From>1766,8</From>
+	<To>2671,2</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(2671,2,6630,4></Category Name>
+	<WOE Value>17,2842812839411</WOE Value>
+	<IV>0,0115228542</IV>
+	<From>2671,2</From>
+	<To>6630,4</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(6630,4,inf)</Category Name>
+	<WOE Value>-53,3182530867267</WOE Value>
+	<IV>0,0616968357</IV>
+	<From>6630,4</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

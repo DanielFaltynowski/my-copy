@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Rata</Variable Name>
+<Destination Variable Name>Rata_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>> 35</Category Name>
+	<WOE Value>25,1314428280906</WOE Value>
+	<IV>0,0081378005</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>> 35</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>25-35</Category Name>
+	<WOE Value>15,5466469490778</WOE Value>
+	<IV>0,0054043106</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>25-35</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>15- 25</Category Name>
+	<WOE Value>6,45385211375712</WOE Value>
+	<IV>0,0006453852</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>15- 25</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>< 15</Category Name>
+	<WOE Value>-15,7300288730155</WOE Value>
+	<IV>0,0121345937</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>< 15</Exact Value>
+</Category>
+
+</Categorization Script>

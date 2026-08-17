@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>PRCNT_PROF</Variable Name>
+<Destination Variable Name>PRCNT_PROF_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,22></Category Name>
+	<WOE Value>40,9677082974502</WOE Value>
+	<IV>0,0386424978</IV>
+	<From></From>
+	<To>22</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(22,26></Category Name>
+	<WOE Value>14,2083183707699</WOE Value>
+	<IV>0,0021851947</IV>
+	<From>22</From>
+	<To>26</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(26,38></Category Name>
+	<WOE Value>-7,47226370219619</WOE Value>
+	<IV>0,0017951158</IV>
+	<From>26</From>
+	<To>38</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(38,48></Category Name>
+	<WOE Value>-43,5753891853833</WOE Value>
+	<IV>0,0451021761</IV>
+	<From>38</From>
+	<To>48</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(48,inf)</Category Name>
+	<WOE Value>18,7786960440008</WOE Value>
+	<IV>0,0033470271</IV>
+	<From>48</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

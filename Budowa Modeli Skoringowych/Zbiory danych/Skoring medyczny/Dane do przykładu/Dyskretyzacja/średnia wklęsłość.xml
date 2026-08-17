@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>średnia wklęsłość</Variable Name>
+<Destination Variable Name>średnia wklęsłość_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,0862></Category Name>
+	<WOE Value>197,332659369652</WOE Value>
+	<IV>1,4991587718</IV>
+	<From></From>
+	<To>0,0862</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,0862,0,1122></Category Name>
+	<WOE Value>-72,8788871885871</WOE Value>
+	<IV>0,0569288068</IV>
+	<From>0,0862</From>
+	<To>0,1122</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,1122,inf)</Category Name>
+	<WOE Value>-278,551338728147</WOE Value>
+	<IV>1,8985980339</IV>
+	<From>0,1122</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

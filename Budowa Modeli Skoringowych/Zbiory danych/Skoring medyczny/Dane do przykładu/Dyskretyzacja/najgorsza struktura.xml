@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>najgorsza struktura</Variable Name>
+<Destination Variable Name>najgorsza struktura_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,23,58></Category Name>
+	<WOE Value>152,90216522721</WOE Value>
+	<IV>0,6776391874</IV>
+	<From></From>
+	<To>23,58</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(23,58,28,46></Category Name>
+	<WOE Value>-29,8005955793417</WOE Value>
+	<IV>0,027531019</IV>
+	<From>23,58</From>
+	<To>28,46</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(28,46,inf)</Category Name>
+	<WOE Value>-112,728531067794</WOE Value>
+	<IV>0,3954524734</IV>
+	<From>28,46</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>BCBAL</Variable Name>
+<Destination Variable Name>BCBAL_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0></Category Name>
+	<WOE Value>17,5533573634243</WOE Value>
+	<IV>0,0022630058</IV>
+	<From></From>
+	<To>0</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,2871></Category Name>
+	<WOE Value>-13,5502680349975</WOE Value>
+	<IV>0,0097167342</IV>
+	<From>0</From>
+	<To>2871</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(2871,4966></Category Name>
+	<WOE Value>11,9902251558076</WOE Value>
+	<IV>0,0014872621</IV>
+	<From>2871</From>
+	<To>4966</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(4966,inf)</Category Name>
+	<WOE Value>51,9844206344764</WOE Value>
+	<IV>0,0308688615</IV>
+	<From>4966</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>-1</Category Name>
+	<WOE Value>-7,37223299774028</WOE Value>
+	<IV>0,000956053112695383</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>-1</Exact Value>
+</Category>
+
+</Categorization Script>

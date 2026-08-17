@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Suma aktywów</Variable Name>
+<Destination Variable Name>Suma aktywów_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name>>140</Category Name>
+	<WOE Value>76,2140052046897</WOE Value>
+	<IV>0,142266143</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>140-700</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>>140</Category Name>
+	<WOE Value>76,2140052046897</WOE Value>
+	<IV>0,142266143</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>700-1400</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>>140</Category Name>
+	<WOE Value>76,2140052046897</WOE Value>
+	<IV>0,142266143</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>>1400</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>do 140</Category Name>
+	<WOE Value>-25,2453380568037</WOE Value>
+	<IV>0,047124631</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>brak</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>do 140</Category Name>
+	<WOE Value>-25,2453380568037</WOE Value>
+	<IV>0,047124631</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value><140</Exact Value>
+</Category>
+
+</Categorization Script>

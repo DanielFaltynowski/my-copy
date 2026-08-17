@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Zatrudnienie</Variable Name>
+<Destination Variable Name>Zatrudnienie_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>1 do 5 lat</Category Name>
+	<WOE Value>-3,21032453844174</WOE Value>
+	<IV>0,000351607</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>1 do 5 lat</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>5 do 8 lat</Category Name>
+	<WOE Value>39,4415271921579</WOE Value>
+	<IV>0,0247918171</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>5 do 8 lat</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Ponad 8</Category Name>
+	<WOE Value>23,5566071312767</WOE Value>
+	<IV>0,013348744</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Ponad 8</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>do roku/bezrob</Category Name>
+	<WOE Value>-43,1137463162291</WOE Value>
+	<IV>0,0468092103</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>bezrobotny</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>do roku/bezrob</Category Name>
+	<WOE Value>-43,1137463162291</WOE Value>
+	<IV>0,0468092103</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>do roku</Exact Value>
+</Category>
+
+</Categorization Script>

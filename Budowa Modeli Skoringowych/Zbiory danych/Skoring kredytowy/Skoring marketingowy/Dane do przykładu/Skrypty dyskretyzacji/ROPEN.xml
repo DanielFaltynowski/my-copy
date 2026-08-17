@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>ROPEN</Variable Name>
+<Destination Variable Name>ROPEN_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,2></Category Name>
+	<WOE Value>-19,9831893536649</WOE Value>
+	<IV>0,0137754265</IV>
+	<From></From>
+	<To>2</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(2,3></Category Name>
+	<WOE Value>-5,00618533962404</WOE Value>
+	<IV>0,0004844977</IV>
+	<From>2</From>
+	<To>3</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(3,5></Category Name>
+	<WOE Value>7,69557150992434</WOE Value>
+	<IV>0,001662275</IV>
+	<From>3</From>
+	<To>5</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(5,inf)</Category Name>
+	<WOE Value>31,9964460416953</WOE Value>
+	<IV>0,0182420202</IV>
+	<From>5</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

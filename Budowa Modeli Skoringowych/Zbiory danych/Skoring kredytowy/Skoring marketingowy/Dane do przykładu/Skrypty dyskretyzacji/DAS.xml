@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>DAS</Variable Name>
+<Destination Variable Name>DAS_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>7</Number of Categories>
+<UniqueCategories>7</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,206></Category Name>
+	<WOE Value>-62,243270405379</WOE Value>
+	<IV>0,0322788654</IV>
+	<From></From>
+	<To>206</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(206,250></Category Name>
+	<WOE Value>-53,7144406483921</WOE Value>
+	<IV>0,0245980471</IV>
+	<From>206</From>
+	<To>250</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(250,286></Category Name>
+	<WOE Value>-43,1589992992098</WOE Value>
+	<IV>0,0162437502</IV>
+	<From>250</From>
+	<To>286</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(286,420></Category Name>
+	<WOE Value>-3,43585517272654</WOE Value>
+	<IV>0,0004688685</IV>
+	<From>286</From>
+	<To>420</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(420,462></Category Name>
+	<WOE Value>24,5230475711772</WOE Value>
+	<IV>0,0063884155</IV>
+	<From>420</From>
+	<To>462</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(462,517></Category Name>
+	<WOE Value>49,0036049453435</WOE Value>
+	<IV>0,0273006723</IV>
+	<From>462</From>
+	<To>517</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(517,inf)</Category Name>
+	<WOE Value>58,4230712914337</WOE Value>
+	<IV>0,0392453631</IV>
+	<From>517</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

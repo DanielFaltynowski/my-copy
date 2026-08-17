@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>największa wklęsłość</Variable Name>
+<Destination Variable Name>największa wklęsłość_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,2267></Category Name>
+	<WOE Value>251,970320172683</WOE Value>
+	<IV>1,765263766</IV>
+	<From></From>
+	<To>0,2267</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,2267,0,3508></Category Name>
+	<WOE Value>-38,0567556486437</WOE Value>
+	<IV>0,0301149397</IV>
+	<From>0,2267</From>
+	<To>0,3508</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,3508,inf)</Category Name>
+	<WOE Value>-232,670229846802</WOE Value>
+	<IV>1,4459346217</IV>
+	<From>0,3508</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

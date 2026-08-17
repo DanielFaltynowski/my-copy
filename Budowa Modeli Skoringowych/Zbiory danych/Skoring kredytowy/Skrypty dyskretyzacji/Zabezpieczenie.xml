@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Zabezpieczenie</Variable Name>
+<Destination Variable Name>Zabezpieczenie_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>brak</Category Name>
+	<WOE Value>46,1034959262975</WOE Value>
+	<IV>0,0540069524</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>brak</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>nieruchomość</Category Name>
+	<WOE Value>-58,6082361123586</WOE Value>
+	<IV>0,0580500624</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>nieruchomość</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>polisa/samochod</Category Name>
+	<WOE Value>-3,18818948996167</WOE Value>
+	<IV>0,0005769105</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>samochód</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>polisa/samochod</Category Name>
+	<WOE Value>-3,18818948996167</WOE Value>
+	<IV>0,0005769105</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>polisa</Exact Value>
+</Category>
+
+</Categorization Script>

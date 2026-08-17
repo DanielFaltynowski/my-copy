@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>BEACON</Variable Name>
+<Destination Variable Name>BEACON_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>7</Number of Categories>
+<UniqueCategories>7</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,714></Category Name>
+	<WOE Value>104,273428554182</WOE Value>
+	<IV>0,138100154</IV>
+	<From></From>
+	<To>714</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(714,726></Category Name>
+	<WOE Value>58,732088533273</WOE Value>
+	<IV>0,0436975322</IV>
+	<From>714</From>
+	<To>726</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(726,735></Category Name>
+	<WOE Value>34,2575862277555</WOE Value>
+	<IV>0,0121018519</IV>
+	<From>726</From>
+	<To>735</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(735,744></Category Name>
+	<WOE Value>4,13872882891229</WOE Value>
+	<IV>0,0001847587</IV>
+	<From>735</From>
+	<To>744</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(744,752></Category Name>
+	<WOE Value>-18,3811158801744</WOE Value>
+	<IV>0,00304451</IV>
+	<From>744</From>
+	<To>752</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(752,760></Category Name>
+	<WOE Value>-36,3538423560309</WOE Value>
+	<IV>0,0123908207</IV>
+	<From>752</From>
+	<To>760</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(760,inf)</Category Name>
+	<WOE Value>-60,4104982985966</WOE Value>
+	<IV>0,1183954394</IV>
+	<From>760</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

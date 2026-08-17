@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>najgorszy wymiar podobieństwa</Variable Name>
+<Destination Variable Name>najgorszy wymiar podobieństwa_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,06576></Category Name>
+	<WOE Value>33,4516602950094</WOE Value>
+	<IV>0,0106564073</IV>
+	<From></From>
+	<To>0,06576</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,06576,0,07343></Category Name>
+	<WOE Value>115,282692646404</WOE Value>
+	<IV>0,2121223479</IV>
+	<From>0,06576</From>
+	<To>0,07343</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,07343,0,09606></Category Name>
+	<WOE Value>9,40361319826069</WOE Value>
+	<IV>0,0043735424</IV>
+	<From>0,07343</From>
+	<To>0,09606</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,09606,inf)</Category Name>
+	<WOE Value>-128,14359905052</WOE Value>
+	<IV>0,3362067869</IV>
+	<From>0,09606</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

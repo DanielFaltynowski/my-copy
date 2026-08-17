@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>najgorsza symetria</Variable Name>
+<Destination Variable Name>najgorsza symetria_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,2435></Category Name>
+	<WOE Value>122,034812733954</WOE Value>
+	<IV>0,2337210785</IV>
+	<From></From>
+	<To>0,2435</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,2435,0,2694></Category Name>
+	<WOE Value>66,0350441366251</WOE Value>
+	<IV>0,0786742235</IV>
+	<From>0,2435</From>
+	<To>0,2694</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,2694,0,2965></Category Name>
+	<WOE Value>15,8752446702298</WOE Value>
+	<IV>0,0048957271</IV>
+	<From>0,2694</From>
+	<To>0,2965</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,2965,0,3258></Category Name>
+	<WOE Value>-25,8785242640136</WOE Value>
+	<IV>0,0139164941</IV>
+	<From>0,2965</From>
+	<To>0,3258</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,3258,inf)</Category Name>
+	<WOE Value>-143,744023898178</WOE Value>
+	<IV>0,413584095</IV>
+	<From>0,3258</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

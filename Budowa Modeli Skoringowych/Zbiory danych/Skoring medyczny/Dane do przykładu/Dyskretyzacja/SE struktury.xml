@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>SE struktury</Variable Name>
+<Destination Variable Name>SE struktury_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,6372></Category Name>
+	<WOE Value>69,8090769349098</WOE Value>
+	<IV>0,0432317456</IV>
+	<From></From>
+	<To>0,6372</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,6372,0,78></Category Name>
+	<WOE Value>25,2040381125855</WOE Value>
+	<IV>0,0061341681</IV>
+	<From>0,6372</From>
+	<To>0,78</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,78,1,005></Category Name>
+	<WOE Value>-30,984041344042</WOE Value>
+	<IV>0,0198593606</IV>
+	<From>0,78</From>
+	<To>1,005</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(1,005,1,911></Category Name>
+	<WOE Value>-11,5684398999462</WOE Value>
+	<IV>0,0067957935</IV>
+	<From>1,005</From>
+	<To>1,911</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(1,911,inf)</Category Name>
+	<WOE Value>39,5141224766528</WOE Value>
+	<IV>0,0144515474</IV>
+	<From>1,911</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

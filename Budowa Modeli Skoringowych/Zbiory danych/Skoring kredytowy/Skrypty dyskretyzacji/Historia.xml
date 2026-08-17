@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Historia</Variable Name>
+<Destination Variable Name>Historia_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>spłacone</Category Name>
+	<WOE Value>73,3740577525199</WOE Value>
+	<IV>0,1324227042</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>spłacone</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>inny_opozn</Category Name>
+	<WOE Value>-123,407083548322</WOE Value>
+	<IV>0,1545526808</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>opóźnienia</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>inny_opozn</Category Name>
+	<WOE Value>-123,407083548322</WOE Value>
+	<IV>0,1545526808</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>inny bank</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>brak_bezprobl</Category Name>
+	<WOE Value>-8,78687554428106</WOE Value>
+	<IV>0,0048537027</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>brak</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>brak_bezprobl</Category Name>
+	<WOE Value>-8,78687554428106</WOE Value>
+	<IV>0,0048537027</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>bez problemów</Exact Value>
+</Category>
+
+</Categorization Script>

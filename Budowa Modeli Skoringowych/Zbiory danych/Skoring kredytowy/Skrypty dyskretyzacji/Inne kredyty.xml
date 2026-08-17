@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Inne kredyty</Variable Name>
+<Destination Variable Name>Inne kredyty_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name>brak</Category Name>
+	<WOE Value>12,1178624657522</WOE Value>
+	<IV>0,0116562296</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>brak</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>sklep/inny bank</Category Name>
+	<WOE Value>-47,7550834881119</WOE Value>
+	<IV>0,0459358422</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>inny bank</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>sklep/inny bank</Category Name>
+	<WOE Value>-47,7550834881119</WOE Value>
+	<IV>0,0459358422</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>sklep</Exact Value>
+</Category>
+
+</Categorization Script>

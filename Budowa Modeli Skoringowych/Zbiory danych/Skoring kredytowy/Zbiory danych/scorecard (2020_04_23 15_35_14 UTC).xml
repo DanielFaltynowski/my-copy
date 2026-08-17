@@ -1,0 +1,452 @@
+<DeploymentSet>
+  <Value_x0020_of_x0020_Savings_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>no savings</Exact>
+    <WoE>-27.135784</WoE>
+    <IV>0.046648</IV>
+    <CategoryName>no savings</CategoryName>
+    <Estimate>-0.47421</Estimate>
+    <Score>69.2176823578448</Score>
+    <Wald>9.14308</Wald>
+    <p_value>-0.78158</p_value>
+    <Frequency>59.8755832037325</Frequency>
+  </Value_x0020_of_x0020_Savings_XRecode_Categorical>
+  <Value_x0020_of_x0020_Savings_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>&lt;140 </Exact>
+    <WoE>-13.955188</WoE>
+    <IV>0.002060</IV>
+    <CategoryName>&lt;140 </CategoryName>
+    <Estimate>0.050230</Estimate>
+    <Score>84.349822102721</Score>
+    <p_value />
+    <Frequency>11.0419906687403</Frequency>
+  </Value_x0020_of_x0020_Savings_XRecode_Categorical>
+  <Value_x0020_of_x0020_Savings_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>140-700</Exact>
+    <WoE>76.214005</WoE>
+    <IV>0.142266</IV>
+    <CategoryName>&gt;1400_700-1400_140-7_etc</CategoryName>
+    <Estimate>0.42398</Estimate>
+    <Score>95.133967533366</Score>
+    <Wald>5.15610</Wald>
+    <p_value>0.05802</p_value>
+    <Frequency>29.0824261275272</Frequency>
+  </Value_x0020_of_x0020_Savings_XRecode_Categorical>
+  <Value_x0020_of_x0020_Savings_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>700-1400</Exact>
+    <WoE>76.214005</WoE>
+    <IV>0.142266</IV>
+    <CategoryName>&gt;1400_700-1400_140-7_etc</CategoryName>
+    <Estimate>0.42398</Estimate>
+    <Score>95.133967533366</Score>
+    <Wald>5.15610</Wald>
+    <p_value>0.05802</p_value>
+    <Frequency>29.0824261275272</Frequency>
+  </Value_x0020_of_x0020_Savings_XRecode_Categorical>
+  <Value_x0020_of_x0020_Savings_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>&gt;1400</Exact>
+    <WoE>76.214005</WoE>
+    <IV>0.142266</IV>
+    <CategoryName>&gt;1400_700-1400_140-7_etc</CategoryName>
+    <Estimate>0.42398</Estimate>
+    <Score>95.133967533366</Score>
+    <Wald>5.15610</Wald>
+    <p_value>0.05802</p_value>
+    <Frequency>29.0824261275272</Frequency>
+  </Value_x0020_of_x0020_Savings_XRecode_Categorical>
+  <Value_x0020_of_x0020_Savings_XRecode_Categorical>
+    <IsExact>Default</IsExact>
+    <Score>78.425656307625</Score>
+  </Value_x0020_of_x0020_Savings_XRecode_Categorical>
+  <Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>False</IsExact>
+    <From />
+    <ToEnd>6600</ToEnd>
+    <Exact>Empty</Exact>
+    <WoE>15.196509</WoE>
+    <IV>0.017874</IV>
+    <CategoryName>(-inf,6600&gt;</CategoryName>
+    <Estimate>0.85632</Estimate>
+    <Score>107.608663012925</Score>
+    <Wald>21.20606</Wald>
+    <p_value>0.49185</p_value>
+    <Frequency>80.248833592535</Frequency>
+  </Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>False</IsExact>
+    <From>6600</From>
+    <ToEnd>10000</ToEnd>
+    <Exact>Empty</Exact>
+    <WoE>-33.108139</WoE>
+    <IV>0.011509</IV>
+    <CategoryName>(6600,10000&gt;</CategoryName>
+    <Estimate>0.095280</Estimate>
+    <Score>85.6496903345619</Score>
+    <p_value />
+    <Frequency>9.79782270606532</Frequency>
+  </Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>False</IsExact>
+    <From>10000</From>
+    <ToEnd />
+    <Exact>Empty</Exact>
+    <WoE>-72.951482</WoE>
+    <IV>0.060446</IV>
+    <CategoryName>(10000,inf)</CategoryName>
+    <Estimate>-0.95160</Estimate>
+    <Score>55.4431186464451</Score>
+    <Wald>14.94535</Wald>
+    <p_value>-1.43405</p_value>
+    <Frequency>9.95334370139969</Frequency>
+  </Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>Default</IsExact>
+    <Score>100.264945877324</Score>
+  </Amount_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>other</Exact>
+    <WoE>-35.920049</WoE>
+    <IV>0.032157</IV>
+    <CategoryName>other</CategoryName>
+    <Estimate>-0.42493</Estimate>
+    <Score>70.6396025901449</Score>
+    <Wald>4.41124</Wald>
+    <p_value>-0.82146</p_value>
+    <Frequency>23.3281493001555</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>new car</Exact>
+    <WoE>77.383609</WoE>
+    <IV>0.051221</IV>
+    <CategoryName>new car</CategoryName>
+    <Estimate>1.27399</Estimate>
+    <Score>119.660071767487</Score>
+    <Wald>12.66513</Wald>
+    <p_value>0.57236</p_value>
+    <Frequency>11.0419906687403</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>furniture</Exact>
+    <WoE>41.006282</WoE>
+    <IV>0.042959</IV>
+    <CategoryName>furniture</CategoryName>
+    <Estimate>0.19345</Estimate>
+    <Score>88.4822777778433</Score>
+    <Wald>0.83184</Wald>
+    <p_value>-0.22227</p_value>
+    <Frequency>26.5940902021773</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>repair</Exact>
+    <WoE>-60.613580</WoE>
+    <IV>0.020205</IV>
+    <CategoryName>repair</CategoryName>
+    <Estimate>-0.96806</Estimate>
+    <Score>54.9681834389845</Score>
+    <Wald>6.77839</Wald>
+    <p_value>-1.69683</p_value>
+    <Frequency>5.13219284603422</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>retraining</Exact>
+    <WoE>-23.052366</WoE>
+    <IV>0.005379</IV>
+    <CategoryName>retraining</CategoryName>
+    <Estimate>0.02663</Estimate>
+    <Score>83.6688700434214</Score>
+    <Wald>0.00851</Wald>
+    <p_value>-0.53924</p_value>
+    <Frequency>10.4199066874028</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>used car</Exact>
+    <WoE>-10.285739</WoE>
+    <IV>0.002547</IV>
+    <CategoryName>television_household_etc</CategoryName>
+    <Estimate>-0.101080</Estimate>
+    <Score>79.9839383699828</Score>
+    <p_value />
+    <Frequency>23.4836702954899</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>television</Exact>
+    <WoE>-10.285739</WoE>
+    <IV>0.002547</IV>
+    <CategoryName>television_household_etc</CategoryName>
+    <Estimate>-0.101080</Estimate>
+    <Score>79.9839383699828</Score>
+    <p_value />
+    <Frequency>23.4836702954899</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>household appliances</Exact>
+    <WoE>-10.285739</WoE>
+    <IV>0.002547</IV>
+    <CategoryName>television_household_etc</CategoryName>
+    <Estimate>-0.101080</Estimate>
+    <Score>79.9839383699828</Score>
+    <p_value />
+    <Frequency>23.4836702954899</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>vacation</Exact>
+    <WoE>-10.285739</WoE>
+    <IV>0.002547</IV>
+    <CategoryName>television_household_etc</CategoryName>
+    <Estimate>-0.101080</Estimate>
+    <Score>79.9839383699828</Score>
+    <p_value />
+    <Frequency>23.4836702954899</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>business</Exact>
+    <WoE>-10.285739</WoE>
+    <IV>0.002547</IV>
+    <CategoryName>television_household_etc</CategoryName>
+    <Estimate>-0.101080</Estimate>
+    <Score>79.9839383699828</Score>
+    <p_value />
+    <Frequency>23.4836702954899</Frequency>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+    <IsExact>Default</IsExact>
+    <Score>84.3891701215697</Score>
+  </Purpose_x0020_of_x0020_Credit_XRecode_Categorical>
+  <Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>paid back</Exact>
+    <WoE>73.374058</WoE>
+    <IV>0.132423</IV>
+    <CategoryName>paid back</CategoryName>
+    <Estimate>0.88965</Estimate>
+    <Score>108.570363527181</Score>
+    <Wald>23.21711</Wald>
+    <p_value>0.52777</p_value>
+    <Frequency>28.9269051321928</Frequency>
+  </Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+  <Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>hesistant</Exact>
+    <WoE>-123.407084</WoE>
+    <IV>0.154553</IV>
+    <CategoryName>problematic running _etc</CategoryName>
+    <Estimate>-0.99876</Estimate>
+    <Score>54.0823686838786</Score>
+    <Wald>20.11074</Wald>
+    <p_value>-1.43528</p_value>
+    <Frequency>9.17573872472784</Frequency>
+  </Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+  <Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>problematic running accounts</Exact>
+    <WoE>-123.407084</WoE>
+    <IV>0.154553</IV>
+    <CategoryName>problematic running _etc</CategoryName>
+    <Estimate>-0.99876</Estimate>
+    <Score>54.0823686838786</Score>
+    <Wald>20.11074</Wald>
+    <p_value>-1.43528</p_value>
+    <Frequency>9.17573872472784</Frequency>
+  </Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+  <Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>no previous credits</Exact>
+    <WoE>-8.786876</WoE>
+    <IV>0.004854</IV>
+    <CategoryName>no problems with cur_etc</CategoryName>
+    <Estimate>0.109110</Estimate>
+    <Score>86.0487397828718</Score>
+    <p_value />
+    <Frequency>61.8973561430793</Frequency>
+  </Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+  <Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>no problems with current credits</Exact>
+    <WoE>-8.786876</WoE>
+    <IV>0.004854</IV>
+    <CategoryName>no problems with cur_etc</CategoryName>
+    <Estimate>0.109110</Estimate>
+    <Score>86.0487397828718</Score>
+    <p_value />
+    <Frequency>61.8973561430793</Frequency>
+  </Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+  <Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+    <IsExact>Default</IsExact>
+    <Score>89.6303978257969</Score>
+  </Payment_x0020_of_x0020_Previous_x0020_Credits_XRecode_Categorical>
+  <Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>&gt; 35</Exact>
+    <WoE>25.131443</WoE>
+    <IV>0.008138</IV>
+    <CategoryName>&gt; 35</CategoryName>
+    <Estimate>0.23697</Estimate>
+    <Score>89.7379995414331</Score>
+    <Wald>1.06216</Wald>
+    <p_value>-0.21369</p_value>
+    <Frequency>14.6189735614308</Frequency>
+  </Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+  <Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>25-35</Exact>
+    <WoE>15.546647</WoE>
+    <IV>0.005404</IV>
+    <CategoryName>25-35</CategoryName>
+    <Estimate>0.28106</Estimate>
+    <Score>91.0101680284889</Score>
+    <Wald>1.91049</Wald>
+    <p_value>-0.11748</p_value>
+    <Frequency>21.3063763608087</Frequency>
+  </Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+  <Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>15- 25</Exact>
+    <WoE>6.453852</WoE>
+    <IV>0.000645</IV>
+    <CategoryName>15- 25</CategoryName>
+    <Estimate>-0.05284</Estimate>
+    <Score>81.3758505454324</Score>
+    <Wald>0.06128</Wald>
+    <p_value>-0.47117</p_value>
+    <Frequency>16.3297045101089</Frequency>
+  </Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+  <Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>&lt; 15</Exact>
+    <WoE>-15.730029</WoE>
+    <IV>0.012135</IV>
+    <CategoryName>&lt; 15</CategoryName>
+    <Estimate>-0.465190</Estimate>
+    <Score>69.4779445432211</Score>
+    <p_value />
+    <Frequency>47.7449455676516</Frequency>
+  </Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+  <Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+    <IsExact>Default</IsExact>
+    <Score>78.9703860946143</Score>
+  </Installment_x0020_in_x0020__x0025__x0020_of_x0020_Available_x0020_Income_XRecode_Categorical>
+  <Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>no running account</Exact>
+    <WoE>-81.809871</WoE>
+    <IV>0.205693</IV>
+    <CategoryName>no running account</CategoryName>
+    <Estimate>-0.73755</Estimate>
+    <Score>61.6192961164908</Score>
+    <Wald>24.93609</Wald>
+    <p_value>-1.02703</p_value>
+    <Frequency>25.8164852255054</Frequency>
+  </Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+  <Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>no balance</Exact>
+    <WoE>-40.139178</WoE>
+    <IV>0.046447</IV>
+    <CategoryName>no balance</CategoryName>
+    <Estimate>-0.22714</Estimate>
+    <Score>76.3466156328935</Score>
+    <Wald>2.41197</Wald>
+    <p_value>-0.51379</p_value>
+    <Frequency>27.3716951788491</Frequency>
+  </Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+  <Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>&lt;= $300</Exact>
+    <WoE>104.229386</WoE>
+    <IV>0.382671</IV>
+    <CategoryName>&gt;$300_&lt;= $300</CategoryName>
+    <Estimate>0.964690</Estimate>
+    <Score>110.735560244547</Score>
+    <p_value />
+    <Frequency>46.8118195956454</Frequency>
+  </Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+  <Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+    <IsExact>True</IsExact>
+    <From>Empty</From>
+    <ToEnd>Empty</ToEnd>
+    <Exact>&gt;$300</Exact>
+    <WoE>104.229386</WoE>
+    <IV>0.382671</IV>
+    <CategoryName>&gt;$300_&lt;= $300</CategoryName>
+    <Estimate>0.964690</Estimate>
+    <Score>110.735560244547</Score>
+    <p_value />
+    <Frequency>46.8118195956454</Frequency>
+  </Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+  <Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+    <IsExact>Default</IsExact>
+    <Score>88.642630078282</Score>
+  </Balance_x0020_of_x0020_Current_x0020_Account_XRecode_Categorical>
+  <AdditionalInformationForScoring>
+    <FractionBad>30.64</FractionBad>
+    <Intercept>0.35628</Intercept>
+  </AdditionalInformationForScoring>
+</DeploymentSet>

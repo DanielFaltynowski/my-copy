@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Okres</Variable Name>
+<Destination Variable Name>Okres_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,9></Category Name>
+	<WOE Value>75,377180237638</WOE Value>
+	<IV>0,0678394622</IV>
+	<From></From>
+	<To>9</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(9,15></Category Name>
+	<WOE Value>38,5486641177278</WOE Value>
+	<IV>0,0392829244</IV>
+	<From>9</From>
+	<To>15</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(15,30></Category Name>
+	<WOE Value>-10,8341143795964</WOE Value>
+	<IV>0,0047463739</IV>
+	<From>15</From>
+	<To>30</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(30,36></Category Name>
+	<WOE Value>-61,3683009205699</WOE Value>
+	<IV>0,0356520605</IV>
+	<From>30</From>
+	<To>36</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(36,inf)</Category Name>
+	<WOE Value>-91,6290731874155</WOE Value>
+	<IV>0,0824661659</IV>
+	<From>36</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

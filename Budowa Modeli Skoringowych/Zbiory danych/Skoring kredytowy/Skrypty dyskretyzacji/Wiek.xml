@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>Wiek</Variable Name>
+<Destination Variable Name>Wiek_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,24></Category Name>
+	<WOE Value>-41,3858900236633</WOE Value>
+	<IV>0,0439478737</IV>
+	<From></From>
+	<To>24</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(24,31></Category Name>
+	<WOE Value>-7,6764016211838</WOE Value>
+	<IV>0,0016449432</IV>
+	<From>24</From>
+	<To>31</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(31,50></Category Name>
+	<WOE Value>35,6674943938732</WOE Value>
+	<IV>0,0458582071</IV>
+	<From>31</From>
+	<To>50</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(50,inf)</Category Name>
+	<WOE Value>-0,990107098271157</WOE Value>
+	<IV>0,0000094296</IV>
+	<From>50</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

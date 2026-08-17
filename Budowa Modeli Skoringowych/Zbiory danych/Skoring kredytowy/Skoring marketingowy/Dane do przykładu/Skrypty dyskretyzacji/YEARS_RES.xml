@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>YEARS_RES</Variable Name>
+<Destination Variable Name>YEARS_RES_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,3></Category Name>
+	<WOE Value>2,52567749413774</WOE Value>
+	<IV>0,0002557919</IV>
+	<From></From>
+	<To>3</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(3,4></Category Name>
+	<WOE Value>39,7415558533021</WOE Value>
+	<IV>0,0259182579</IV>
+	<From>3</From>
+	<To>4</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(4,inf)</Category Name>
+	<WOE Value>-17,455497606157</WOE Value>
+	<IV>0,0131517874</IV>
+	<From>4</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

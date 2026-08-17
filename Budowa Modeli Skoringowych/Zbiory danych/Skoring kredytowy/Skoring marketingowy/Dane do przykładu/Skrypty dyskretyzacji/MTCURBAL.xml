@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>MTCURBAL</Variable Name>
+<Destination Variable Name>MTCURBAL_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,23457></Category Name>
+	<WOE Value>11,8826321543431</WOE Value>
+	<IV>0,000755162</IV>
+	<From></From>
+	<To>23457</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(23457,68081></Category Name>
+	<WOE Value>-9,23657924643678</WOE Value>
+	<IV>0,0016611243</IV>
+	<From>23457</From>
+	<To>68081</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(68081,112000></Category Name>
+	<WOE Value>-18,8627196360675</WOE Value>
+	<IV>0,0068071157</IV>
+	<From>68081</From>
+	<To>112000</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(112000,inf)</Category Name>
+	<WOE Value>-37,3783862331218</WOE Value>
+	<IV>0,012209546</IV>
+	<From>112000</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>-1</Category Name>
+	<WOE Value>17,0960183486917</WOE Value>
+	<IV>0,0137420203930936</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>-1</Exact Value>
+</Category>
+
+</Categorization Script>

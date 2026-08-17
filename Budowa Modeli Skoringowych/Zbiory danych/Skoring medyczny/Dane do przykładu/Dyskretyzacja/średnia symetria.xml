@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Pakiet Skoringowy, Copyright (c) StatSoft Polska"/>
+<Variable Name>średnia symetria</Variable Name>
+<Destination Variable Name>średnia symetria_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,172></Category Name>
+	<WOE Value>88,7123760731039</WOE Value>
+	<IV>0,2689244813</IV>
+	<From></From>
+	<To>0,172</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,172,0,201></Category Name>
+	<WOE Value>-22,0663162409858</WOE Value>
+	<IV>0,0199921688</IV>
+	<From>0,172</From>
+	<To>0,201</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,201,inf)</Category Name>
+	<WOE Value>-103,197513087362</WOE Value>
+	<IV>0,2193376666</IV>
+	<From>0,201</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

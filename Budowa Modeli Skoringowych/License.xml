@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Licencje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WersjaAngielska>true</WersjaAngielska>
+  <Logging>false</Logging>
+  <OldDatabase>false</OldDatabase>
+  <NotStatistica>false</NotStatistica>
+  <Instytucja>Uniwersytet Gdański</Instytucja>
+  <TypLicencji>PL_Single_Enterprise</TypLicencji>
+  <ProgramList>
+    <ProgramName>Zestaw skoringowy</ProgramName>
+    <DataWygasniecia>2500-12-31T00:00:00</DataWygasniecia>
+    <LiczbaLicencji>1</LiczbaLicencji>
+    <LiczbaLicencjiStalych>0</LiczbaLicencjiStalych>
+    <MinutowyInterwalSprawdzania>1</MinutowyInterwalSprawdzania>
+    <CzyConcurrent>false</CzyConcurrent>
+    <CzyStanowiskowa>true</CzyStanowiskowa>
+    <CzySieciowa>false</CzySieciowa>
+    <NumerSeryjnySTAT>K2888</NumerSeryjnySTAT>
+    <Baza>false</Baza>
+    <MiniBaza>false</MiniBaza>
+    <Trial>false</Trial>
+  </ProgramList>
+  <ProgramList>
+    <ProgramName>Zestaw Plus</ProgramName>
+    <DataWygasniecia>2500-12-31T00:00:00</DataWygasniecia>
+    <LiczbaLicencji>1</LiczbaLicencji>
+    <LiczbaLicencjiStalych>0</LiczbaLicencjiStalych>
+    <MinutowyInterwalSprawdzania>1</MinutowyInterwalSprawdzania>
+    <CzyConcurrent>false</CzyConcurrent>
+    <CzyStanowiskowa>true</CzyStanowiskowa>
+    <CzySieciowa>false</CzySieciowa>
+    <NumerSeryjnySTAT>K2888</NumerSeryjnySTAT>
+    <Baza>false</Baza>
+    <MiniBaza>false</MiniBaza>
+    <Trial>false</Trial>
+  </ProgramList>
+  <ProgramList>
+    <ProgramName>Mapy</ProgramName>
+    <DataWygasniecia>2500-12-31T00:00:00</DataWygasniecia>
+    <LiczbaLicencji>1</LiczbaLicencji>
+    <LiczbaLicencjiStalych>0</LiczbaLicencjiStalych>
+    <MinutowyInterwalSprawdzania>1</MinutowyInterwalSprawdzania>
+    <CzyConcurrent>false</CzyConcurrent>
+    <CzyStanowiskowa>true</CzyStanowiskowa>
+    <CzySieciowa>false</CzySieciowa>
+    <NumerSeryjnySTAT>K2888</NumerSeryjnySTAT>
+    <Baza>false</Baza>
+    <MiniBaza>false</MiniBaza>
+    <Trial>false</Trial>
+  </ProgramList>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>E1VLoI3Dxti0Yk4ZpeUyV58+DN4=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>QuIJu+auNCNStJBjNBEnBIvImVBTHYcLpfGFfbbgXmChOGYwEJhG105U2TYGJq3+h0K92GFrMl3H74HtLJVu/oCusedwHFbOUHDLTqtCmaOsqRf7Nfzd4iyLN7RMdHP0uL0belU+zxXgcI/G3kdwLcLpQjuCiScgIa9ITnPR66E=</SignatureValue>
+  </Signature>
+</Licencje>
